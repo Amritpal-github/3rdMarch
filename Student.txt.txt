@@ -1,6 +1,8 @@
 File from Amritpal Singh
 
-There are 82 students in python class. All are hard working students.
+There are 82 students in python class. All are good and hard working students.
 Concept covered was loops.
+I am done with changes
 78 were present and 4 were absent
+You can commit
 End note by Amritpal 
