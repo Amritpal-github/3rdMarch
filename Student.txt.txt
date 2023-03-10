@@ -3,3 +3,4 @@ File from Amritpal Singh
 There are 82 students in python class. All are hard working students.
 Concept covered was loops.
 78 were present and 4 were absent
+End note by Amritpal 
